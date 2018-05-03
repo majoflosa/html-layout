@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    min-height: 80px;
+    background-color: #444444;
+    
+}
+
+main {
+    min-height: 95vh;
+    background-color: #d9d8d9;
+}
+
+.wrapper {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;    
+}
+
+section {
+    background-color: #efefef;
+    min-height: 88vh;
+}
+
+footer {
+    background-color: #222222;
+    min-height: 80px; 
+}
